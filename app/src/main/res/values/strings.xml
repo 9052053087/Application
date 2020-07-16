@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login-Register</string>
+    <string name="username">Username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="not_registered">Not Registered</string>
+    <string name="register">REGISTER</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="all_ready_registered">all ready registered</string>
+    <string name="and">+ COL_3 +</string>
+</resources>
